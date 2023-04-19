@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Toby!
 🔭 I’m currently working on everything!
 <br>🌱 I’m currently learning more about iOS
-<br>📫 How to reach me: moktartoby@gmail.com
+<br>📫 Feel free to reach me at: moktartoby@gmail.com
 <br>🌸 My portfolio: https://moktar13.github.io/
 
 
